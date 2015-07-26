@@ -7,7 +7,7 @@
 
 - Install:
 ```
-    brew install mesos
+    brew install haosdent/mesos/mesos
 ```
 
 - Disable:
